@@ -156,6 +156,10 @@ func getAppPath() (string, error) {
 				fmt.Println("Session de DEBUG")
 				appPath = appDevPath
 			}
+			if strings.Contains(appPath, appDevPath) {
+				fmt.Println("Session de DEBUG")
+				appPath = appDevPath
+			}
 		}
 	}
 	return appPath, err
