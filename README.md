@@ -3,7 +3,7 @@ Test Fyne library for GO
 
 Je développe en **GO** un gestionnaire de collection de films (façon GCStar pour les connaisseurs).
 Il n'est pas question, ici, de visualiser les films, d'autres le font très bien (**VLC**...) mais juste de gérer une collection.
-Ce logiciel sera composé à 90% d'une interface utilisateur (**UI**) et de 10% d'une BDD (**SQLite** ici).
+Ce logiciel sera composé à 90% d'une interface graphique (**UI**) et pour 10% d'une BDD (ici **SQLite**).
 
 Pour l'**UI** j'ai donc exploré ce que propose **Fyne** : https://github.com/fyne-io/fyne
 
