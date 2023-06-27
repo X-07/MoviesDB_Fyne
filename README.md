@@ -25,7 +25,7 @@ Voici le résultat obtenu ...
 - Assez facile à prendre en main
 - Assez verbeux
 - Look! Chacun se fera son avis
-- IMPOSSIBLE de positionner finement les Widgets avec le concept d'occuper la place miniamale sauf pour 1 qui prend toute la place restante!
+- IMPOSSIBLE de positionner finement les Widgets avec le concept d'occuper la place minimale sauf pour 1 qui prend toute la place restante!
 Ce qui peut donner des listes à 1 seul élément visible (+ ascenseur!) 
 
 ## Pas fan du look
